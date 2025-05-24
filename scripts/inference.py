@@ -8,8 +8,8 @@ import joblib
 import numpy as np
 
 # Пути к сохранённым моделям
-model_path = "/home/eraly/projects/remember-ai/random_forest_model.pkl"
-scaler_path = "/home/eraly/projects/remember-ai/scaler.pkl"
+model_path = "random_forest_model.pkl"
+scaler_path = "scaler.pkl"
 
 # Загрузка обученных компонентов с обработкой ошибок
 try:
